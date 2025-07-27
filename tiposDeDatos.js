@@ -2,6 +2,14 @@
 let miNumero3 = 25.5;
 console.log(miNumero3);
 
+//Entero - almacena números enteros
+let miEntero = 10;
+console.log(miEntero);
+
+//Float - almacena números decimales
+let miDecimal = 3.14;
+console.log(miDecimal);
+
 //String - almacena texto
 let miTexto = "Hola, mundo!";
 console.log(miTexto);
